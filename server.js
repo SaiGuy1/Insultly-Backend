@@ -22,6 +22,9 @@ app.get('/', (req, res) => {
 // to do routes
 app.use('/api/v1/todos', routes.todo);
 
+// user routes
+app.use('/api/v1/users', routes.auth);
+
 
 app.listen(PORT, () =>
   console.log(`Server connected at http://localhost:${PORT}`)

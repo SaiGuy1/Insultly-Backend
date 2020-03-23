@@ -13,6 +13,12 @@ let Todo = new Schema({
   },
   location: {
     type: String
+  },
+  lat: {
+    type: Number
+  },
+  lng: {
+    type: Number
   }
 })
 
