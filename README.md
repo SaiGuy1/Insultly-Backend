@@ -1,7 +1,10 @@
 # Insultly (4 Day Build)
 ## Technolgies Used 
 ```
-    ⭐️MERN
+    ⭐️MongoDb
+    ⭐️Express
+    ⭐️React
+    ⭐️Node
     ⭐️Google Maps API
     ⭐️Google Places API
     ⭐️React Geocode 
