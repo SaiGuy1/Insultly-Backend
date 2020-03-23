@@ -1,4 +1,4 @@
-# Insultly 
+# Insultly (4 Day Build)
 ## Technolgies Used 
 ```
     ⭐️MERN
