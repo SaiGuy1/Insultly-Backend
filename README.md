@@ -14,7 +14,9 @@
 ![](images/1.png)
 
 ## Profile Page 
-this is where your created tasks are displayed 
+### This is where your Created Tasks are Displayed 
+### 📍React Google Maps API Centers and Places Pin on Location where Task/Errand will take place 
+### ⏱Timer Component Counts Down and Changes State and Displays Insult When Timer Ends
 ![](images/3.png)
 ![](images/2.png)
 ![](images/4.png)
