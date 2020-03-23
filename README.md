@@ -1,6 +1,6 @@
 # Insultly 
-```
   ##Technolgies Used 
+```
     ⭐️MERN
     ⭐️Google Maps API
     ⭐️Google Places API
