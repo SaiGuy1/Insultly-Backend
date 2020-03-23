@@ -14,7 +14,7 @@
 ![](images/1.png)
 
 ## Profile Page 
-    ### this is where your created tasks are displayed 
+    this is where your created tasks are displayed 
 ![](images/3.png)
 ![](images/2.png)
 ![](images/4.png)
