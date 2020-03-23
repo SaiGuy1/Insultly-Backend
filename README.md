@@ -19,5 +19,9 @@
 ### ⏱ Timer Component Counts Down and Changes State and Displays Insult When Timer Ends
 ![](images/3.png)
 ![](images/2.png)
+***
+## Create Tasks Form
+### Input Fields for Task Title, Description, Location, Time to Complete Task
 ![](images/4.png)
+***
 ![](images/6.png)
