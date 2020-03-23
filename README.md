@@ -1,5 +1,5 @@
 # Insultly 
-  ##Technolgies Used 
+##Technolgies Used 
 ```
     ⭐️MERN
     ⭐️Google Maps API
